@@ -1,0 +1,30 @@
+2024-11-15 00:41:56.574 [main] INFO  testCases.TC001_User_Registration - ***Execution Starts***
+2024-11-15 00:41:59.947 [main] INFO  testCases.TC001_User_Registration - ****Clicked on Login/Signup****
+2024-11-15 00:42:03.964 [main] INFO  testCases.TC001_User_Registration - ****Registartion Page****
+2024-11-15 00:42:03.977 [main] INFO  testCases.TC001_User_Registration - ****Filling details****
+2024-11-15 00:42:32.571 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-15 00:42:41.238 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-15 00:42:41.238 [main] INFO  testCases.TC002_User_Login - user_Login-Passed
+2024-11-15 00:42:43.390 [main] INFO  testCases.TC002_User_Login - Logged out successfully
+2024-11-15 00:43:43.272 [main] INFO  testCases.TC001_User_Registration - ***Execution Starts***
+2024-11-15 00:43:44.703 [main] INFO  testCases.TC001_User_Registration - ****Clicked on Login/Signup****
+2024-11-15 00:43:46.460 [main] INFO  testCases.TC001_User_Registration - ****Registartion Page****
+2024-11-15 00:43:46.468 [main] INFO  testCases.TC001_User_Registration - ****Filling details****
+2024-11-15 00:43:52.667 [main] INFO  testCases.TC001_User_Registration - **Filled Details**
+2024-11-15 00:43:52.740 [main] INFO  testCases.TC001_User_Registration - *********Validation of confirmation Messgae*********
+2024-11-15 00:43:53.136 [main] INFO  testCases.TC001_User_Registration - ***Execution Completed***
+2024-11-15 00:44:00.894 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-15 00:44:07.444 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-15 00:44:07.444 [main] INFO  testCases.TC002_User_Login - user_Login-Passed
+2024-11-15 00:44:09.529 [main] INFO  testCases.TC002_User_Login - Logged out successfully
+2024-11-15 00:59:45.592 [main] INFO  testCases.TC001_User_Registration - ***Execution Starts***
+2024-11-15 00:59:46.856 [main] INFO  testCases.TC001_User_Registration - ****Clicked on Login/Signup****
+2024-11-15 00:59:48.390 [main] INFO  testCases.TC001_User_Registration - ****Registartion Page****
+2024-11-15 00:59:48.396 [main] INFO  testCases.TC001_User_Registration - ****Filling details****
+2024-11-15 00:59:51.902 [main] INFO  testCases.TC001_User_Registration - **Filled Details**
+2024-11-15 00:59:51.956 [main] INFO  testCases.TC001_User_Registration - *********Validation of confirmation Messgae*********
+2024-11-15 00:59:52.216 [main] INFO  testCases.TC001_User_Registration - ***Execution Completed***
+2024-11-15 00:59:59.175 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-15 01:00:05.149 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-15 01:00:05.149 [main] INFO  testCases.TC002_User_Login - user_Login-Passed
+2024-11-15 01:00:07.852 [main] INFO  testCases.TC002_User_Login - Logged out successfully

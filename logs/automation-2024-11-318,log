@@ -1,0 +1,74 @@
+2024-11-13 00:42:52.273 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-13 00:47:59.300 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-13 00:48:07.108 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-13 00:48:25.009 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-13 01:27:35.227 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-13 01:27:50.839 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-13 01:28:07.418 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-13 01:30:32.324 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-13 01:30:39.747 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-13 01:30:53.494 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-13 01:31:25.979 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-13 01:31:35.341 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-13 01:31:49.074 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-13 01:32:37.742 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-13 01:32:45.553 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-13 01:32:58.767 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-13 01:33:30.805 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-13 01:34:09.675 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-13 01:34:28.621 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-13 01:37:13.147 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-13 01:37:21.425 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-13 01:37:35.071 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-13 01:39:59.414 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-13 01:40:09.225 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-13 01:40:24.353 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-13 01:42:47.479 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-13 01:42:54.629 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-13 01:43:09.142 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-13 01:46:46.986 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-13 01:46:54.527 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-13 01:47:10.585 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-13 01:48:09.195 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-13 01:48:17.272 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-13 01:48:31.966 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-13 01:55:03.270 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-13 01:55:19.276 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-13 01:55:33.158 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-13 01:56:33.359 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-13 01:56:42.382 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-13 01:56:56.512 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-13 01:58:05.921 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-13 01:58:13.399 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-13 01:58:26.949 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-13 02:09:07.151 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+

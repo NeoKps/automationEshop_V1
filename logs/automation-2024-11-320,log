@@ -1,0 +1,54 @@
+2024-11-15 00:17:23.788 [main] INFO  testCases.TC001_User_Registration - ***Execution Completed***
+2024-11-15 00:17:33.947 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-15 00:17:46.815 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-15 00:17:46.816 [main] INFO  testCases.TC002_User_Login - user_Login-Passed
+2024-11-15 00:17:49.661 [main] INFO  testCases.TC002_User_Login - Logged out successfully
+2024-11-15 00:22:21.479 [main] INFO  testCases.TC001_User_Registration - ***Execution Starts***
+2024-11-15 00:22:24.978 [main] INFO  testCases.TC001_User_Registration - ****Clicked on Login/Signup****
+2024-11-15 00:22:28.748 [main] INFO  testCases.TC001_User_Registration - ****Registartion Page****
+2024-11-15 00:22:28.757 [main] INFO  testCases.TC001_User_Registration - ****Filling details****
+2024-11-15 00:22:34.541 [main] INFO  testCases.TC001_User_Registration - **Filled Details**
+2024-11-15 00:22:34.606 [main] INFO  testCases.TC001_User_Registration - *********Validation of confirmation Messgae*********
+2024-11-15 00:22:34.612 [main] INFO  testCases.TC001_User_Registration - ***Execution Completed***
+2024-11-15 00:22:41.315 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-15 00:22:47.682 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-15 00:22:47.683 [main] INFO  testCases.TC002_User_Login - user_Login-Passed
+2024-11-15 00:22:50.280 [main] INFO  testCases.TC002_User_Login - Logged out successfully
+2024-11-15 00:25:07.139 [main] INFO  testCases.TC001_User_Registration - ***Execution Starts***
+2024-11-15 00:25:11.442 [main] INFO  testCases.TC001_User_Registration - ****Clicked on Login/Signup****
+2024-11-15 00:25:22.393 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-15 00:25:29.098 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-15 00:25:29.098 [main] INFO  testCases.TC002_User_Login - user_Login-Passed
+2024-11-15 00:25:31.382 [main] INFO  testCases.TC002_User_Login - Logged out successfully
+2024-11-15 00:32:43.640 [main] INFO  testCases.TC001_User_Registration - ***Execution Starts***
+2024-11-15 00:32:44.952 [main] INFO  testCases.TC001_User_Registration - ****Clicked on Login/Signup****
+2024-11-15 00:32:46.616 [main] INFO  testCases.TC001_User_Registration - ****Registartion Page****
+2024-11-15 00:32:46.620 [main] INFO  testCases.TC001_User_Registration - ****Filling details****
+2024-11-15 00:32:52.028 [main] INFO  testCases.TC001_User_Registration - **Filled Details**
+2024-11-15 00:32:52.100 [main] INFO  testCases.TC001_User_Registration - *********Validation of confirmation Messgae*********
+2024-11-15 00:32:52.342 [main] INFO  testCases.TC001_User_Registration - ***Execution Completed***
+2024-11-15 00:33:00.282 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-15 00:33:08.758 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-15 00:33:08.759 [main] INFO  testCases.TC002_User_Login - user_Login-Passed
+2024-11-15 00:33:11.225 [main] INFO  testCases.TC002_User_Login - Logged out successfully
+2024-11-15 00:36:14.305 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-15 00:36:21.877 [main] INFO  testCases.TC001_User_Registration - ***Execution Starts***
+2024-11-15 00:36:23.601 [main] INFO  testCases.TC001_User_Registration - ****Clicked on Login/Signup****
+2024-11-15 00:36:25.593 [main] INFO  testCases.TC001_User_Registration - ****Registartion Page****
+2024-11-15 00:36:25.603 [main] INFO  testCases.TC001_User_Registration - ****Filling details****
+2024-11-15 00:36:30.628 [main] INFO  testCases.TC001_User_Registration - **Filled Details**
+2024-11-15 00:36:30.687 [main] INFO  testCases.TC001_User_Registration - *********Validation of confirmation Messgae*********
+2024-11-15 00:36:31.080 [main] INFO  testCases.TC001_User_Registration - Screenshot captured for TC001_User_Registration_Success
+2024-11-15 00:36:31.080 [main] INFO  testCases.TC001_User_Registration - ***Execution Completed***
+2024-11-15 00:37:15.485 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-15 00:37:23.497 [main] INFO  testCases.TC001_User_Registration - ***Execution Starts***
+2024-11-15 00:37:25.132 [main] INFO  testCases.TC001_User_Registration - ****Clicked on Login/Signup****
+2024-11-15 00:37:29.016 [main] INFO  testCases.TC001_User_Registration - ****Registartion Page****
+2024-11-15 00:37:29.025 [main] INFO  testCases.TC001_User_Registration - ****Filling details****
+2024-11-15 00:37:34.013 [main] INFO  testCases.TC001_User_Registration - **Filled Details**
+2024-11-15 00:37:34.092 [main] INFO  testCases.TC001_User_Registration - *********Validation of confirmation Messgae*********
+2024-11-15 00:37:34.480 [main] INFO  testCases.TC001_User_Registration - ***Execution Completed***

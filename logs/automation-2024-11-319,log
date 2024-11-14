@@ -1,0 +1,71 @@
+2024-11-14 00:23:55.516 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 00:36:31.659 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-14 00:37:32.083 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 00:38:44.770 [main] INFO  testCases.TC003_DDT_Login - Login succeeded for valid credentials
+2024-11-14 00:38:49.131 [main] INFO  testCases.TC003_DDT_Login - Logged out successfully
+2024-11-14 00:38:49.699 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 00:39:03.663 [main] INFO  testCases.TC003_DDT_Login - Login failed for invalid credentials
+2024-11-14 00:39:03.922 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 00:39:18.501 [main] INFO  testCases.TC003_DDT_Login - Login failed for invalid credentials
+2024-11-14 00:39:18.731 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 00:39:32.764 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 00:44:10.982 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-14 00:45:22.772 [main] INFO  testCases.TC002_User_Login - ***Second Execution Starts***
+2024-11-14 00:45:39.449 [main] INFO  testCases.TC002_User_Login - **Checking account message**
+2024-11-14 00:45:39.449 [main] INFO  testCases.TC002_User_Login - user_Login-Passed
+2024-11-14 00:53:40.205 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-14 00:53:48.156 [main] INFO  testCases.TC001_User_Registration - ***Execution Starts***
+2024-11-14 00:53:49.697 [main] INFO  testCases.TC001_User_Registration - ****Clicked on Login/Signup****
+2024-11-14 00:53:52.413 [main] INFO  testCases.TC001_User_Registration - ****Registartion Page****
+2024-11-14 00:53:52.423 [main] INFO  testCases.TC001_User_Registration - ****Filling details****
+2024-11-14 00:53:57.990 [main] INFO  testCases.TC001_User_Registration - **Filled Details**
+2024-11-14 00:53:58.021 [main] INFO  testCases.TC001_User_Registration - *********Validation of confirmation Messgae*********
+2024-11-14 00:53:58.025 [main] INFO  testCases.TC001_User_Registration - ***Execution Completed***
+2024-11-14 01:08:49.100 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-14 01:09:21.743 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-14 01:09:31.433 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:09:45.687 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:10:09.982 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:10:23.514 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:10:37.004 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:11:13.395 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-14 01:11:23.017 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:13:09.161 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:13:09.184 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:13:09.196 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:13:09.218 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:19:47.841 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-14 01:20:12.401 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-14 01:20:29.240 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:23:31.734 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:23:46.542 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:23:46.575 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:23:46.614 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:24:10.032 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-14 01:24:20.692 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:25:01.091 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:25:01.139 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:25:01.167 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 01:25:01.200 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
+2024-11-14 09:47:17.612 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium_Tuts\SeleniumWebDriver\automationEshop_V1\master.xml
+
+2024-11-14 09:47:35.917 [main] INFO  testCases.TC003_DDT_Login - TC003 Started
